@@ -3,6 +3,7 @@
 
 // 사이버보안 18114139 원종진 암호해석 과제
 // AES
+// C언어로 구현한 128bit 암호 구현
 
 static const unsigned char Sbox[256] =
 {
