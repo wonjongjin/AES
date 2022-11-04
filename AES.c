@@ -2,7 +2,7 @@
 #include <string.h> // memcpy
 
 // 사이버보안 18114139 원종진 암호해석 과제
-
+// AES
 
 static const unsigned char Sbox[256] =
 {
